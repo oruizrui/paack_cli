@@ -1,5 +1,8 @@
-# paack_cli
+# ruby cli --> paack_cli
 
-````docker-compose build `````
-````docker-compose run paack_cli `````
-````docker-compose run paack_cli bundle exec rspec ````
+#### bBuild app with docker compose
+``docker-compose build``
+#### Run to show weather at Gava
+``docker-compose run paack_cli ``
+#### Execute Rspec test
+``docker-compose run paack_cli bundle exec rspec ``
